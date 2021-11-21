@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /Users/alexglowacki/Downloads/scala3-course/todo/src/main/scala/todo/PersistentModel.scala:103:26 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m103 |[0m    saveTasks(Tasks(tasks addOne (id, task)))[0m
+[0m[[0m[31merror[0m] [0m[0m    |                    [31m^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |value addOne is not a member of Iterable[(todo.data.Id, todo.data.Task)][0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /Users/alexglowacki/Downloads/scala3-course/todo/src/main/scala/todo/PersistentModel.scala:138:43 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m138 |[0m        saveTasks(Tasks(tasks.toMap ++ Map(id, completedTask)))[0m
+[0m[[0m[31merror[0m] [0m[0m    |                                           [31m^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |                                         Found:    (id : todo.data.Id)[0m
+[0m[[0m[31merror[0m] [0m[0m    |                                         Required: (Any, Any)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /Users/alexglowacki/Downloads/scala3-course/todo/src/main/scala/todo/PersistentModel.scala:138:47 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m138 |[0m        saveTasks(Tasks(tasks.toMap ++ Map(id, completedTask)))[0m
+[0m[[0m[31merror[0m] [0m[0m    |                                               [31m^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |                            Found:    (completedTask : todo.data.Task)[0m
+[0m[[0m[31merror[0m] [0m[0m    |                            Required: (Any, Any)[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/alexglowacki/Downloads/scala3-course/quickcheck/target/scala-3.0.2/effective-scala-quickcheck_3-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	quickcheck/HeapProperties.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexglowacki/Downloads/scala3-course/quickcheck/src/main/scala/quickcheck/HeapProperties.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	quickcheck/Heap.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexglowacki/Downloads/scala3-course/quickcheck/src/main/scala/quickcheck/Heap.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

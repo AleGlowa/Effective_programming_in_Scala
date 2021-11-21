@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/alexglowacki/Downloads/scala3-course/codecs/target/scala-3.1.0/effective-scala-codecs_3-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Util.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexglowacki/Downloads/scala3-course/codecs/src/main/scala/codecs/Util.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codecs/Codecs.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/alexglowacki/Downloads/scala3-course/codecs/src/main/scala/codecs/Codecs.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for munit.Framework produced 3 initial tasks for 3 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(todo.TodoSuite, sbt.ForkMain$SubclassFingerscan@4566e5bd, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 14 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(todo.data.BijectionSuite, sbt.ForkMain$SubclassFingerscan@1ed4004b, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 7 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(todo.IdGeneratorSuite, sbt.ForkMain$SubclassFingerscan@ff5b51f, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 2 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for munit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 23, Failed 0, Errors 0, Passed 23[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo.data.BijectionSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo.TodoSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo.IdGeneratorSuite[0m

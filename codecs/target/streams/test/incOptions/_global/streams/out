@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/alexglowacki/Downloads/scala3-course/codecs/target/scala-3.1.0/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CodecsSuite.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EncoderFallbackInstance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestEncoders.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DecoderFallbackInstance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestDecoders.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CodecsSuite.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EncoderFallbackInstance.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestEncoders.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DecoderFallbackInstance.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestDecoders.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/alexglowacki/Downloads/scala3-course/codecs/target/scala-3.1.0/test-classes.bak[0m
